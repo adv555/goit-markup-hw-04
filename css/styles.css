@@ -376,9 +376,8 @@ img {
 }
 
 /* ======= END OUR TEAM ======= */
-/* ======= REGULAR CUSTOMERS ======= */
 
-/* ======= END REGULAR CUSTOMERS ======= */
+/* ======= REGULAR CUSTOMERS ======= */
 
 .customers {
   padding-top: var(--section-pt);
@@ -417,8 +416,9 @@ img {
 .customer-link:focus .icon-logo {
   fill: var(--accent-color);
 }
-
+/* ======= END REGULAR CUSTOMERS ======= */
 /* ======= FOOTER ======= */
+
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
